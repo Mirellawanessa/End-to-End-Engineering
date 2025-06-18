@@ -1,0 +1,14 @@
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.exe
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.deps.json
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.runtimeconfig.json
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.dll
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\bin\Debug\net8.0\SistemaHospedagem.pdb
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.dll
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\obj\Debug\net8.0\refint\SistemaHospedagem.dll
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.pdb
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\obj\Debug\net8.0\SistemaHospedagem.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\DIO-SistemaHospedagem\SistemaHospedagem\obj\Debug\net8.0\ref\SistemaHospedagem.dll
