@@ -56,7 +56,7 @@ Este projeto contém:
 ## 🚀 **Como Utilizar Este Repositório**  
 1. Clone o repositório:  
    ```bash  
-   git clone [https://github.com/Lucasrof/Desafio-Dia-a-Dia-QA_DIO.git]  
+   https://github.com/Mirellawanessa/End-to-End-Engineering/tree/main/Dia-a-Dia-QA
    ```  
 2. Acesse cada pasta para ver os documentos em detalhes.  
 3. Contribua com melhorias ou adapte os materiais para seus estudos!  
@@ -71,8 +71,3 @@ Este projeto foi desenvolvido para **simular o dia a dia de um QA**, aplicando c
 - [Como escrever User Stories](https://www.atlassian.com/agile/project-management/user-stories)  
 
 ---
-
-Criado por Lucas Rosa | [LinkedIn](https://www.linkedin.com/in/lucasrosaf)  
-
---- 
-
